@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminSignup">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/signup"
+            tools:ignore="ContentDescription" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="20dp"
+            android:layout_marginHorizontal="16dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="5dp"
+            android:backgroundTint="#9FAFAD">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+                <EditText
+                    android:id="@+id/companyName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundfield"
+                    android:importantForAutofill="no"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:hint="Company Name"
+                    android:inputType="text"
+                    tools:ignore="Autofill,HardcodedText" />
+
+
+                <EditText
+                    android:id="@+id/companyAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundfield"
+                    android:importantForAutofill="no"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginVertical="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:hint="Company Address"
+                    android:inputType="text"
+                    tools:ignore="Autofill,HardcodedText" />
+
+                <EditText
+                    android:id="@+id/cnic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundfield"
+                    android:importantForAutofill="no"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginVertical="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:hint="CNIC"
+                    android:inputType="numberDecimal"
+                    tools:ignore="Autofill,HardcodedText" />
+
+                <EditText
+                    android:id="@+id/contact"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundfield"
+                    android:importantForAutofill="no"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginVertical="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:hint="Contact Number"
+                    android:inputType="numberDecimal"
+                    tools:ignore="Autofill,HardcodedText" />
+
+
+
+                <EditText
+                    android:id="@+id/adminEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:autofillHints="emailAddress"
+                    android:background="@drawable/roundfield"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginVertical="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:inputType="textEmailAddress"
+                    android:hint="Email"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/adminPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundfield"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="10dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:hint="Password"
+                    android:inputType="textPassword"
+                    tools:ignore="HardcodedText" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:visibility="gone"
+                    android:layout_gravity="center_horizontal"/>
+
+
+                <Button
+                    android:id="@+id/registerAdmin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/roundfield"
+                    android:padding="16dp"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="30dp"
+                    android:textSize="16sp"
+                    android:textColor="@color/black"
+                    android:text="Register"
+                    tools:ignore="HardcodedText" />
+
+
+                <TextView
+                    android:id="@+id/txtLogin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginVertical="30dp"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:text="Already have an account! Login"
+                    tools:ignore="HardcodedText" />
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

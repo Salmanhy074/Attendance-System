@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminProfile">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Admin Profile"
+            android:textColor="@color/black"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="40dp"
+            tools:ignore="HardcodedText"/>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="16dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="5dp"
+            android:backgroundTint="#9FAFAD">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/profileImageView"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/profile1"
+                    app:shapeAppearanceOverlay="@style/CircularShape"
+                    app:strokeWidth="5dp"
+                    app:strokeColor="@color/black"
+                    android:scaleType="centerCrop"
+                    android:contentDescription="Profile Image"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/userName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Username"
+                    android:layout_marginTop="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/black"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/ueserEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email"
+                    android:layout_marginStart="20dp"
+                    android:textSize="20sp"
+                    android:layout_marginVertical="20dp"
+                    android:textColor="@color/black"
+                    tools:ignore="HardcodedText" />
+
+
+
+            </LinearLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animationView"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginHorizontal="10dp"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/attendance" />
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/attendanceReportButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundfield"
+            android:padding="16dp"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="Attendance Report"
+            tools:ignore="HardcodedText"/>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/viewAttendanceButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundfield"
+            android:padding="16dp"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginVertical="20dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="View Attendance"
+            tools:ignore="HardcodedText"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>
