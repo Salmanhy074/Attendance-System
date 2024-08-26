@@ -3,6 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
+    android:layout_marginBottom="50dp"
+    android:background="@color/app_background"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AdminSignup">
@@ -27,7 +29,7 @@
             android:layout_marginHorizontal="16dp"
             app:cardCornerRadius="10dp"
             app:cardElevation="5dp"
-            android:backgroundTint="#9FAFAD">
+            android:backgroundTint="@color/card">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -143,6 +145,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@drawable/roundfield"
+                    app:backgroundTint="#FF9800"
                     android:padding="16dp"
                     android:layout_marginHorizontal="10dp"
                     android:layout_marginTop="30dp"
