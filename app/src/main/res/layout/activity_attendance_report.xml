@@ -53,6 +53,7 @@
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:hint="From Date"
+                android:textColorHint="@color/black"
                 tools:ignore="HardcodedText" />
 
             <TextView
@@ -66,6 +67,7 @@
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:hint="To Date"
+                android:textColorHint="@color/black"
                 tools:ignore="HardcodedText" />
 
 
@@ -92,13 +94,22 @@
     </androidx.cardview.widget.CardView>
 
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:src="@drawable/line"
+        android:layout_gravity="center_horizontal"
+        tools:ignore="ContentDescription" />
+
+
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/attendanceRecyclerView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingBottom="70dp"
-            tools:itemCount="1"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="60dp"
+            tools:itemCount="5"
             tools:listitem="@layout/report_item" />
 
 

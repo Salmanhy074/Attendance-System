@@ -45,6 +45,7 @@
                 android:textColor="@color/black"
                 android:inputType="textEmailAddress"
                 android:hint="Email"
+                android:textColorHint="@color/black"
                 tools:ignore="HardcodedText" />
 
             <EditText
@@ -58,6 +59,7 @@
                 android:textSize="16sp"
                 android:textColor="@color/black"
                 android:hint="Password"
+                android:textColorHint="@color/black"
                 android:inputType="textPassword"
                 tools:ignore="HardcodedText" />
 

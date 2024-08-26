@@ -51,6 +51,7 @@
                     android:textSize="16sp"
                     android:textColor="@color/black"
                     android:hint="Company Name"
+                    android:textColorHint="@color/black"
                     android:inputType="text"
                     tools:ignore="Autofill,HardcodedText" />
 
@@ -67,6 +68,7 @@
                     android:textSize="16sp"
                     android:textColor="@color/black"
                     android:hint="Company Address"
+                    android:textColorHint="@color/black"
                     android:inputType="text"
                     tools:ignore="Autofill,HardcodedText" />
 
@@ -82,6 +84,7 @@
                     android:textSize="16sp"
                     android:textColor="@color/black"
                     android:hint="CNIC"
+                    android:textColorHint="@color/black"
                     android:inputType="numberDecimal"
                     tools:ignore="Autofill,HardcodedText" />
 
@@ -97,6 +100,7 @@
                     android:textSize="16sp"
                     android:textColor="@color/black"
                     android:hint="Contact Number"
+                    android:textColorHint="@color/black"
                     android:inputType="numberDecimal"
                     tools:ignore="Autofill,HardcodedText" />
 
@@ -115,6 +119,7 @@
                     android:textColor="@color/black"
                     android:inputType="textEmailAddress"
                     android:hint="Email"
+                    android:textColorHint="@color/black"
                     tools:ignore="HardcodedText" />
 
                 <EditText
@@ -128,6 +133,7 @@
                     android:textSize="16sp"
                     android:textColor="@color/black"
                     android:hint="Password"
+                    android:textColorHint="@color/black"
                     android:inputType="textPassword"
                     tools:ignore="HardcodedText" />
 
