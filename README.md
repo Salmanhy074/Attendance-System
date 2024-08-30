@@ -64,7 +64,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ##Screenshot
 
-![Screenshot of Attendance Management System](./path-to-your-image.png)
+![Screenshot of Attendance Management System](C:\Users\salma\Downloads\ssssssss)
 
 
 
