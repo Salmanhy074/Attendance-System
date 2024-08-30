@@ -15,6 +15,9 @@ Feel free to check out my other repositories:
  - [Event-Management](https://github.com/Salmanhy074/Event-Management)
  - [Unit-Convertor](https://github.com/Salmanhy074/Unit-Convertor)
 
+APK File: Download the latest APK file of this project and provide feedback 😃.
+
+
 ## Table of Contents
 - [👋 Introduction](#introduction)
 - [✨ Features](#features)
