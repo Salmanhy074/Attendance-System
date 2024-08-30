@@ -58,6 +58,20 @@ The Attendance Management System is a web application built using the MERN stack
 - Java
 - [Firebase Project](https://firebase.google.com/) (for Authentication and Storage)
 
+
+## Screenshots
+![9](https://github.com/user-attachments/assets/ef538e10-d5db-4b0a-a1d9-903b0bc50f12)
+![8](https://github.com/user-attachments/assets/b4ad747b-cb91-4321-ad3e-e6f67c792f4c)
+![7](https://github.com/user-attachments/assets/b2264729-3a20-4809-b03b-af8f485dab3b)
+![6](https://github.com/user-attachments/assets/26e786b7-5fff-468d-bb3c-46dda3d1f248)
+![5](https://github.com/user-attachments/assets/868f3acc-f9f0-45ea-a4e2-427f2a3cd433)
+![4](https://github.com/user-attachments/assets/9914ba6e-4907-4ac6-9aab-f49f85191f04)
+![3](https://github.com/user-attachments/assets/397dde26-d24e-41e9-8055-e8c8e595adfd)
+![2](https://github.com/user-attachments/assets/ec8725b1-31fc-4203-bd23-433947fca929)
+![1](https://github.com/user-attachments/assets/78d5d9ec-7e73-4483-94ee-e3af59145cf3)
+
+
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
