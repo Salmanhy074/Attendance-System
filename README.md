@@ -5,7 +5,7 @@
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
-I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using the XML, Java with Firebase Authentication and Storage. This system streamlines student attendance management, making it easier than ever to track, share, and export attendance records.
+I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using XML, and Java with Firebase Authentication and Storage. This system streamlines student attendance management, making it easier than ever to track, share, and export attendance records.
 
 **If you find this project helpful or interesting, please consider starring the repository on GitHub! I appreciate your support.**
 
@@ -20,6 +20,7 @@ Feel free to check out my other repositories:
 - [✨ Features](#features)
 - [🛠️ Technologies Used](#technologies-used)
 - [🔧 Prerequisites](#prerequisites)
+- [📸 Screenshots](#Screenshots)
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
 - [📄 License](#license)
@@ -60,16 +61,17 @@ The Attendance Management System is a web application built using the MERN stack
 
 
 ## Screenshots
-![9](https://github.com/user-attachments/assets/ef538e10-d5db-4b0a-a1d9-903b0bc50f12)
-![8](https://github.com/user-attachments/assets/b4ad747b-cb91-4321-ad3e-e6f67c792f4c)
-![7](https://github.com/user-attachments/assets/b2264729-3a20-4809-b03b-af8f485dab3b)
-![6](https://github.com/user-attachments/assets/26e786b7-5fff-468d-bb3c-46dda3d1f248)
-![5](https://github.com/user-attachments/assets/868f3acc-f9f0-45ea-a4e2-427f2a3cd433)
-![4](https://github.com/user-attachments/assets/9914ba6e-4907-4ac6-9aab-f49f85191f04)
-![3](https://github.com/user-attachments/assets/397dde26-d24e-41e9-8055-e8c8e595adfd)
-![2](https://github.com/user-attachments/assets/ec8725b1-31fc-4203-bd23-433947fca929)
-![1](https://github.com/user-attachments/assets/78d5d9ec-7e73-4483-94ee-e3af59145cf3)
 
+![1](https://github.com/user-attachments/assets/78d5d9ec-7e73-4483-94ee-e3af59145cf3)
+![2](https://github.com/user-attachments/assets/ec8725b1-31fc-4203-bd23-433947fca929)
+![3](https://github.com/user-attachments/assets/397dde26-d24e-41e9-8055-e8c8e595adfd)
+![4](https://github.com/user-attachments/assets/9914ba6e-4907-4ac6-9aab-f49f85191f04)
+![5](https://github.com/user-attachments/assets/868f3acc-f9f0-45ea-a4e2-427f2a3cd433)
+![6](https://github.com/user-attachments/assets/26e786b7-5fff-468d-bb3c-46dda3d1f248)
+![7](https://github.com/user-attachments/assets/b2264729-3a20-4809-b03b-af8f485dab3b)
+![8](https://github.com/user-attachments/assets/b4ad747b-cb91-4321-ad3e-e6f67c792f4c)
+![9](https://github.com/user-attachments/assets/ef538e10-d5db-4b0a-a1d9-903b0bc50f12)
+![10](https://github.com/user-attachments/assets/80d5e84d-9fa9-4328-a429-d9d7679c6222)
 
 
 ## Contributing
