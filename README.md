@@ -62,9 +62,6 @@ The Attendance Management System is a web application built using the MERN stack
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
-##Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
 
 ## Contact
 
