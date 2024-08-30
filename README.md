@@ -1,7 +1,6 @@
 # 📚 Attendance Management System
 
-curl -H "Authorization: token YOUR_GITHUB_PERSONAL_ACCESS_TOKEN" \
-https://api.github.com/repos/Salmanhy074/https://github.com/Salmanhy074/Attendance-System/traffic/views
+![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Salmanhy074/attendance-management-system)
 
 
 
