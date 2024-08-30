@@ -1,6 +1,7 @@
 # 📚 Attendance Management System
 
-![Visitor Count](https://api.countapi.xyz/hit/Salmanhy074/attendance-management-system?label=Visitors&color=informational&style=flat-square)
+![GitHub Repo views](https://komarev.com/ghpvc/?username=Salmanhy074&label=Repo%20views&color=blue&style=flat-square)
+
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
@@ -19,7 +20,6 @@ Feel free to check out my other repositories:
 - [✨ Features](#features)
 - [🛠️ Technologies Used](#technologies-used)
 - [🔧 Prerequisites](#prerequisites)
-- [📖 Usage](#usage)
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
 - [📄 License](#license)
@@ -54,10 +54,6 @@ The Attendance Management System is a web application built using the MERN stack
 ## Prerequisites
 
 - [Firebase Project](https://firebase.google.com/) (for Authentication and Storage)
-
-## Usage
-
-*Instructions on how to set up and run the project.*
 
 ## Contributing
 
