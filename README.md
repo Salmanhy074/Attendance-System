@@ -53,7 +53,12 @@ The Attendance Management System is a web application built using the MERN stack
 
 - [Firebase Project](https://firebase.google.com/) (for Authentication and Storage)
 
-- 
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salmanhy074.Attendance-Management-System)
+
+
+  
 ### `LICENSE`
 
 ```markdown
