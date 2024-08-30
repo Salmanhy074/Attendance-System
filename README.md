@@ -1,5 +1,7 @@
 # 📚 Attendance Management System
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salmanhy074.Attendance-Management-System)
+
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
 I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and Storage. This system streamlines student attendance management, making it's easier than ever to track, share, and export attendance records.
@@ -20,6 +22,7 @@ Feel free to check out my other repositories:
 - [📖 Usage](#usage)
 - [🤝 Contributing](#contributing)
 - [📧 Contact](#contact)
+- [📄 License](#license)
 
 ## Introduction
 
@@ -34,13 +37,11 @@ The Attendance Management System is a web application built using the MERN stack
   - **Mark Attendance**: The user can mark attendance only once in a day.
   - **Time**: Mark attendance at a specific time after the time absent will be marked by the system.
 
-
 - **📊 Export Attendance Data**:
-  - **PDF Export**: Download attendance records between specified dates in PDF format. This report includes student names, present days, absent days and their attendance records within the selected range.
-  - **PDF share**: Share attendance records between specified dates in PDF format. This report includes student names, present days, absent days and their attendance records within the selected range.
+  - **PDF Export**: Download attendance records between specified dates in PDF format. This report includes student names, present days, absent days, and their attendance records within the selected range.
+  - **PDF Share**: Share attendance records between specified dates in PDF format. This report includes student names, present days, absent days, and their attendance records within the selected range.
 
 - **📱 Responsive Design**: The application is designed to work seamlessly across various devices, tablets, and mobile phones.
-
 
 ## Technologies Used
 
@@ -49,13 +50,28 @@ The Attendance Management System is a web application built using the MERN stack
 - **Database**: Firebase
 - **Authentication**: Firebase Authentication
 - **Storage**: Firebase Storage
+
 ## Prerequisites
 
 - [Firebase Project](https://firebase.google.com/) (for Authentication and Storage)
 
+## Usage
 
+*Instructions on how to set up and run the project.*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salmanhy074.Attendance-Management-System)
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
+
+## Contact
+
+- **Email**: your.email@example.com
+- **GitHub**: [Salmanhy074](https://github.com/Salmanhy074)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
 
   
