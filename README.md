@@ -1,12 +1,10 @@
 # 📚 Attendance Management System
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Salmanhy074/attendance-management-system)
-
-
+![Visitor Count](https://api.countapi.xyz/hit/Salmanhy074/attendance-management-system?label=Visitors&color=informational&style=flat-square)
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
-I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and Storage. This system streamlines student attendance management, making it's easier than ever to track, share, and export attendance records.
+I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and Storage. This system streamlines student attendance management, making it easier than ever to track, share, and export attendance records.
 
 **If you find this project helpful or interesting, please consider starring the repository on GitHub! I appreciate your support.**
 
@@ -65,14 +63,15 @@ The Attendance Management System is a web application built using the MERN stack
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
+
 ## Contact
 
-- **Email**: your.email@example.com
+- **Email**: salmanhy123456@example.com
 - **GitHub**: [Salmanhy074](https://github.com/Salmanhy074)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
 
