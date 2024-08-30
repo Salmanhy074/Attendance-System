@@ -1,6 +1,6 @@
 # 📚 Attendance Management System
 
-![Visitor Chart](https://quickchart.io/chart?c={type:'line',data:{labels:['Day 1', 'Day 2', 'Day 3', ...],datasets:[{label:'Visitors',data:[10, 20, 30, ...]}]}})
+![Visitor Chart](https://quickchart.io/chart?c={type:'line', data:{labels:['Day 1', 'Day 2', 'Day 3', ...], datasets:[{label:'Visitors', data:[10, 20, 30, ...]}]}})
 
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
