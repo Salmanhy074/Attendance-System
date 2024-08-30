@@ -62,10 +62,6 @@ The Attendance Management System is a web application built using the MERN stack
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
-##Screenshot
-
-![Screenshot of Attendance Management System](C:\Users\salma\Downloads\ssssssss)
-
 
 
 ## Contact
