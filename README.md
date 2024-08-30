@@ -59,8 +59,29 @@ The Attendance Management System is a web application built using the MERN stack
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
+##Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
 
 ## Contact
+
+<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h2>
+
+<div id="badges" align="left">
+  <a href="https://github.com/Salmanhy074/Salmanhy074">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/itxz_sallu_">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-salman074">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://wa.me/+923082456659">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/>
+  </a>
+</div>
+
 
 - **Email**: salmanhy123456@example.com
 - **GitHub**: [Salmanhy074](https://github.com/Salmanhy074)
