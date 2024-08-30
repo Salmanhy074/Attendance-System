@@ -1,6 +1,8 @@
 # 📚 Attendance Management System
 
-![Visitor Chart](https://quickchart.io/chart?c={type:'line', data:{labels:['Day 1', 'Day 2', 'Day 3', ...], datasets:[{label:'Visitors', data:[10, 20, 30, ...]}]}})
+curl -H "Authorization: token YOUR_GITHUB_PERSONAL_ACCESS_TOKEN" \
+https://api.github.com/repos/Salmanhy074/https://github.com/Salmanhy074/Attendance-System/traffic/views
+
 
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
