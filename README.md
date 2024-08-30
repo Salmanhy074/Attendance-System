@@ -53,6 +53,9 @@ The Attendance Management System is a web application built using the MERN stack
 
 ## Prerequisites
 
+- Android Studio
+- XML
+- Java
 - [Firebase Project](https://firebase.google.com/) (for Authentication and Storage)
 
 ## Contributing
@@ -64,8 +67,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
 
 ## Contact
-
-<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h2>
 
 <div id="badges" align="left">
   <a href="https://github.com/Salmanhy074/Salmanhy074">
@@ -81,10 +82,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/>
   </a>
 </div>
-
-
-- **Email**: salmanhy123456@example.com
-- **GitHub**: [Salmanhy074](https://github.com/Salmanhy074)
 
 ## License
 
