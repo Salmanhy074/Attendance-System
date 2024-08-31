@@ -51,8 +51,8 @@ The Attendance Management System is a web application built using the MERN stack
 
 ## Technologies Used
 
-- **Frontend**: XML
-- **Backend**: Java
+- **XML**
+- **Java** 
 - **Database**: Firebase
 - **Authentication**: Firebase Authentication
 - **Storage**: Firebase Storage
