@@ -5,7 +5,7 @@
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
-I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using XML, and Java with Firebase Authentication and Storage. This system streamlines student attendance management, making it easier than ever to track, share, and export attendance records.
+I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using XML, and Java with Firebase Authentication and Storage. This system streamlines student attendance management, making tracking, sharing, and exporting attendance records easier than ever.
 
 **If you find this project helpful or interesting, please consider starring the repository on GitHub! I appreciate your support.**
 
@@ -16,7 +16,7 @@ Feel free to check out my other repositories:
  - [Unit-Convertor](https://github.com/Salmanhy074/Unit-Convertor)
 
 APK File: Download the latest APK file of this project and provide feedback 😃.
-
+[Download the APK](https://github.com/Salmanhy074/Attendance-System/blob/master/app-debug.apk)
 
 ## Table of Contents
 - [👋 Introduction](#introduction)
