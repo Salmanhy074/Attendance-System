@@ -32,7 +32,7 @@ APK File: Download the latest APK file of this project and provide feedback 😃
 
 ## Introduction
 
-The Attendance Management System is a web application built using XML, and Java with Firebase Authentication and Storage. It provides a comprehensive solution for managing student attendance and generating attendance reports.
+The Attendance Management System is an Android application built using XML, and Java with Firebase Authentication and Storage. It provides a comprehensive solution for managing student attendance and generating attendance reports.
 
 ## Features
 
