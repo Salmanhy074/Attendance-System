@@ -32,7 +32,7 @@ APK File: Download the latest APK file of this project and provide feedback 😃
 
 ## Introduction
 
-The Attendance Management System is a web application built using the MERN stack (XML, Java) with Firebase Authentication and Storage. It provides a comprehensive solution for managing student attendance and generating attendance reports.
+The Attendance Management System is a web application built using XML, and Java with Firebase Authentication and Storage. It provides a comprehensive solution for managing student attendance and generating attendance reports.
 
 ## Features
 
@@ -40,8 +40,8 @@ The Attendance Management System is a web application built using the MERN stack
 
 - **📋 Manage Attendance**: 
   - **View Attendance**: Displays a list of all students with their names, present, and absent. 
-  - **Mark Attendance**: The user can mark attendance only once in a day.
-  - **Time**: Mark attendance at a specific time after the time absent will be marked by the system.
+  - **Mark Attendance**: The user can mark attendance only once daily.
+  - **Time**: Mark attendance at a specific time after the time absent, which the system will mark.
 
 - **📊 Export Attendance Data**:
   - **PDF Export**: Download attendance records between specified dates in PDF format. This report includes student names, present days, absent days, and their attendance records within the selected range.
